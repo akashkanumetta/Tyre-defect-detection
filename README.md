@@ -1,2 +1,8 @@
-# Tyre-defect-detection
-Tyre defect classification using CNN. This project trains a deep learning model on images of defective and good tyres using data augmentation and convolutional layers to accurately detect tyre conditions. Achieves automated visual inspection with high accuracy.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
